@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>通勤学习日报</title>
+    <link>https://3c79643b86f84550834e490bd3d2f912.app.workbuddy.link</link>
+    <language>zh-cn</language>
+    <copyright>&#xA9; 2026 通勤学习日报</copyright>
+    <itunes:author>通勤学习日报</itunes:author>
+    <itunes:summary>每天早上7点更新，陪你度过通勤时光。新闻播报、英语口语、书籍共读、财报分析，四合一学习套餐。</itunes:summary>
+    <description>每天早上7点更新，陪你度过通勤时光。新闻播报、英语口语、书籍共读、财报分析，四合一学习套餐。</description>
+    <itunes:owner>
+      <itunes:name>通勤学习日报</itunes:name>
+      <itunes:email>dailylearning@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://3c79643b86f84550834e490bd3d2f912.app.workbuddy.link/cover.jpg"/>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0800</lastBuildDate>
+
+    <item>
+      <title>8月30日周日：新闻播报、英语口语、穷查理宝典、陕西煤业财报</title>
+      <itunes:summary>今日内容：昨日民生财经AI热点新闻；英语口语《肖申克的救赎》经典台词；《穷查理宝典》第一讲：逆向思维；陕西煤业2026半年报分析。</itunes:summary>
+      <description>今日内容：
+1. 新闻播报（5分钟）：民生、财经、AI科技热点
+2. 英语口语（5分钟）：《肖申克的救赎》两句经典台词
+3. 书籍共读（15分钟）：《穷查理宝典》第一讲——逆向思维
+4. 财报分析（8分钟）：陕西煤业2026年半年度报告深度解读</description>
+      <link>https://3c79643b86f84550834e490bd3d2f912.app.workbuddy.link/2026-08-30/index.html</link>
+      <guid isPermaLink="false">daily-podcast-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>518</itunes:duration>
+      <enclosure url="https://3c79643b86f84550834e490bd3d2f912.app.workbuddy.link/2026-08-30/podcast/episode.mp3" length="3112848" type="audio/mpeg"/>
+      <itunes:image href="https://3c79643b86f84550834e490bd3d2f912.app.workbuddy.link/2026-08-30/podcast/cover.jpg"/>
+    </item>
+
+  </channel>
+</rss>

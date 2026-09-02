@@ -32,8 +32,8 @@
       <guid isPermaLink="false">daily-podcast-2026-08-30</guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0800</pubDate>
       <itunes:duration>518</itunes:duration>
-      <enclosure url="https://yanndygit.github.io/daily-learning-podcast/2026-08-30/podcast/episode.mp3" length="3112848" type="audio/mpeg"/>
-      <itunes:image href="https://yanndygit.github.io/daily-learning-podcast/2026-08-30/podcast/cover.jpg"/>
+      <enclosure url="https://yanndygit.github.io/daily-learning-podcast/2026-08-30/episode.mp3" length="3112848" type="audio/mpeg"/>
+      <itunes:image href="https://yanndygit.github.io/daily-learning-podcast/2026-08-30/cover.jpg"/>
     </item>
 
   </channel>

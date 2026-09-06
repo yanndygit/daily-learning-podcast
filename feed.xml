@@ -18,7 +18,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0800</lastBuildDate>
+
+    <item>
+      <title>9月6日周日：通勤学习日报</title>
+      <itunes:summary>9月6日 每日学习：新闻播报、英语口语、穷查理宝典、财报分析。</itunes:summary>
+      <description>9月6日 每日学习：新闻播报、英语口语、穷查理宝典、财报分析。</description>
+      <link>https://yanndygit.github.io/daily-learning-podcast/2026-09-06/</link>
+      <guid isPermaLink="false">daily-podcast-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0800</pubDate>
+      <itunes:duration>545</itunes:duration>
+      <enclosure url="https://yanndygit.github.io/daily-learning-podcast/2026-09-06/episode.mp3" length="3273840" type="audio/mpeg"/>
+      <itunes:image href="https://yanndygit.github.io/daily-learning-podcast/2026-09-06/cover.jpg"/>
+    </item>
 
     <item>
       <title>9月5日周六：通勤学习日报</title>
